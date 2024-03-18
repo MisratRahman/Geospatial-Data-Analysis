@@ -16,6 +16,10 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
+*Bondary of upazilla lama and its code link [Lama](https://code.earthengine.google.com/c9222faf4ba42a3345a0c37b6d5046f1)
+
+
+
 
 
 
