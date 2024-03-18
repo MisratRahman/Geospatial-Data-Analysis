@@ -8,15 +8,12 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
-*Application of server site in GEE(dictionary, reducer, get) Here is the code link for file GEE1 [GEE1](https://https://code.earthengine.google.com/f42521a7a6715362764ad560eadd5ebd)
+*Application of server site in GEE(dictionary, reducer, get) Here is the code link for file gee1.js gee1
 
 
 
 
-*Application of map method, list method in GEE. The code script link is [GEE2](https://https://code.earthengine.google.com/e4245c53df08de5d29f47abfb04b52f8)
-
-
-
+*Application of map method, list method in GEE. The code script link is gee2
 
 
 
