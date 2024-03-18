@@ -7,3 +7,4 @@ var B= A.map(function(num){
   return num.multiply(4)
 })
 print(B)
+// Application of map method, list method in GEE. The code script link is [gee2](https://code.earthengine.google.com/e4245c53df08de5d29f47abfb04b52f8)
