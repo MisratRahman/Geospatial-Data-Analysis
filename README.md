@@ -20,6 +20,10 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
+*Here is the link of code of getting RGB image of Lama upazila: [RGB_Lama](https://code.earthengine.google.com/e956b86b3c44727e8110b8e050774d70)
+
+
+
 
 
 
