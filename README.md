@@ -29,6 +29,12 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
+*Here is the code link associated with satellite RGB image of an area and its capturing Date:[Sentinel_imageCollection](https://code.earthengine.google.com/ed8b97f34a33b6a914e45113abd4a00c)
+
+
+
+
+
 
 
 
