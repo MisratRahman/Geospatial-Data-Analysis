@@ -24,6 +24,11 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
+*Here is the code link of false colour composite image of Lama upazila:[False_color_composite_image_of_Lama](https://code.earthengine.google.com/b5503cc5951a4a9e55769ae2bc117547)
+
+
+
+
 
 
 
