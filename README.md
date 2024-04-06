@@ -39,6 +39,15 @@ Ans.: Code link [NDVI OF LAMA UPAZILLA](https://code.earthengine.google.com/24b8
 
 
 
+*Ques.: Calculate the maximum and minimum NDVI value of your NDVI map. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+Ans.: Here is the code link [Max_Min_value_NDVI_image](https://code.earthengine.google.com/1860288c43e0b7a7a77d1c91aaaf34aa)
+
+
+
+
+
+
 
 
 
