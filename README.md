@@ -33,6 +33,12 @@ data & the link is here: [Uses of vector data](https://code.earthengine.google.c
 
 
 
+*Ques:Make a NDVI map of your Upazila by using Landsat 9 imagery for 2022. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+Ans.: Code link [NDVI OF LAMA UPAZILLA](https://code.earthengine.google.com/24b8a595d5ff0bb1bde4d80ee835aaa0)
+
+
+
 
 
 
