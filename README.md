@@ -44,6 +44,13 @@ Ans.: Code link [NDVI OF LAMA UPAZILLA](https://code.earthengine.google.com/24b8
 Ans.: Here is the code link [Max_Min_value_NDVI_image](https://code.earthengine.google.com/1860288c43e0b7a7a77d1c91aaaf34aa)
 
 
+*Ques.:
+ Make a NDWI map of your Upazila by using Sentinel-2 imagery for 2023. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+
+Ans.: Code link:   [NDWI of Lama](https://code.earthengine.google.com/9c8c03a5026a68731d0fad15b0d4f704)
+
+
 
 
 
