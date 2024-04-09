@@ -51,6 +51,12 @@ Ans.: Here is the code link [Max_Min_value_NDVI_image](https://code.earthengine.
 Ans.: Code link:   [NDWI of Lama](https://code.earthengine.google.com/9c8c03a5026a68731d0fad15b0d4f704)
 
 
+*Ques.:  Make a NDSI map of your Upazila by using Sentinel-2 imagery for 2021. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+Ans.: 
+code link: [NDSI OF LAMA](https://code.earthengine.google.com/55d3309df68829d828da56abd4bad8ca)
+
+
 
 
 
