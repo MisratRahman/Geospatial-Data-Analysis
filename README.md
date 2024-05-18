@@ -56,6 +56,10 @@ Ans.: Code link:   [NDWI of Lama](https://code.earthengine.google.com/9c8c03a502
 Ans.: 
 code link: [NDSI OF LAMA](https://code.earthengine.google.com/55d3309df68829d828da56abd4bad8ca)
 
+*Ques: Download this dummy data set from here. Reduce any three column, and group division. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+Ans. : Here is the link: [Reduced columns](https://code.earthengine.google.com/c65e63fc8d9aff9df6032a1695cf91ab)
+
 
 
 
