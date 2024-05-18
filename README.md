@@ -60,6 +60,10 @@ code link: [NDSI OF LAMA](https://code.earthengine.google.com/55d3309df68829d828
 
 Ans. : Here is the link: [Reduced columns](https://code.earthengine.google.com/c65e63fc8d9aff9df6032a1695cf91ab)
 
+*Ques: Use this landcover data set  and calculate the sum of each class of the band `LC_Type1` for your Upazila for the year 2021. Upload the code, code link, and screenshot in your GitHub repo. Submit the repo link.
+
+Ans. : Here is the code link [Sum of each class LC_Type1](https://code.earthengine.google.com/170399dab4665177e54ff5f8939e9c15)
+
 
 
 
