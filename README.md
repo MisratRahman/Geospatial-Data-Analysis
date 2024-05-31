@@ -64,6 +64,10 @@ Ans. : Here is the link: [Reduced columns](https://code.earthengine.google.com/c
 
 Ans. : Here is the code link [Sum of each class LC_Type1](https://code.earthengine.google.com/170399dab4665177e54ff5f8939e9c15)
 
+*Question: Select a feature collection of 5 waterbodies and add a property by using map() method. Submit your GitHub repo link.
+
+Ans.: I have selected 5 waterbodies around Sandwip as featureCollection and added a property using map methood(Class as "Key" with value as" Sandwip"). Here is the code link: [Adding properties to ftCollection](https://code.earthengine.google.com/c79e16af25d82248452e6e717e7cf885)
+
 
 
 
