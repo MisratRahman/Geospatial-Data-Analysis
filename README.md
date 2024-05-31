@@ -69,6 +69,12 @@ Ans. : Here is the code link [Sum of each class LC_Type1](https://code.earthengi
 Ans.: I have selected 5 waterbodies around Sandwip as featureCollection and added a property using map methood(Class as "Key" with value as" Sandwip"). Here is the code link: [Adding properties to ftCollection](https://code.earthengine.google.com/c79e16af25d82248452e6e717e7cf885)
 
 
+*Question: Map over a list and create a feature collection by passing null geometry to each element of that list and exxport as "CSV" file.
+
+Answer: Code link:
+[List to featureCollection and exporting as CSV file](https://code.earthengine.google.com/186d5cb5219929bf772a1a5d95ce4bbb)
+
+
 
 
 
