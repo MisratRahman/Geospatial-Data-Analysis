@@ -1,0 +1,13 @@
+code link: https://code.earthengine.google.com/41f1f78200a7f003e251d4641af1c9db
+
+
+// Export the feature collection as CSV 
+var summerFruits=ee.FeatureCollection(ee.List(["Mango","Litchi","Jackfruit","Watermelon","Coconut"]).map(function(fruits){
+  return ee.Feature(null,{"value":fruits})
+}))
+print(summerFruits)
+Export.table.toDrive({
+  collection:summerFruits,
+  description:"List_of_summer_fruits",
+  fileFormat:"CSV"
+  })
