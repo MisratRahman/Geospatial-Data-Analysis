@@ -1,4 +1,4 @@
-Code link: https://code.earthengine.google.com/41f1f78200a7f003e251d4641af1c9db
+//Code link: https://code.earthengine.google.com/41f1f78200a7f003e251d4641af1c9db
 // Map over a list and create a feature collection by passing null geometry to each element of that list
 
 var summerFruits=ee.FeatureCollection(ee.List(["Mango","Litchi","Jackfruit","Watermelon","Coconut"]).map(function(fruits){
