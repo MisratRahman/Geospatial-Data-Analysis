@@ -75,6 +75,11 @@ Answer: Code link:
 [List to featureCollection and exporting as CSV file](https://code.earthengine.google.com/186d5cb5219929bf772a1a5d95ce4bbb)
 
 
+*Ques.:  Do a supervised classification by using Sentinel-2 for your upazila, export the classified image, prepare fine-tuned map. Submit your GitHub repo link.
+
+Ans.: Here is the code link attached [Supervised Classification and area calculation](https://code.earthengine.google.com/dbf92381cd86b2eb54646183cb57720a)
+
+
 
 
 
